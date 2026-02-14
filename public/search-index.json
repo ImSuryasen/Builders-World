@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "hello-world",
+    "title": "Hello World",
+    "excerpt": "Welcome to your new static Markdown-powered blog.",
+    "tags": [
+      "nextjs",
+      "markdown"
+    ],
+    "category": "Getting Started",
+    "date": "2026-02-14"
+  }
+]

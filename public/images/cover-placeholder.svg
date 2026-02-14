@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#111827"/>
+  <circle cx="180" cy="120" r="120" fill="#1f2937"/>
+  <circle cx="1050" cy="520" r="160" fill="#1f2937"/>
+  <text x="80" y="320" fill="#f9fafb" font-size="72" font-family="Arial, sans-serif" font-weight="700">Builders World Blog</text>
+  <text x="80" y="390" fill="#9ca3af" font-size="34" font-family="Arial, sans-serif">Next.js · Markdown · Static Export</text>
+</svg>

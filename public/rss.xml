@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Builders World Blog</title>
+<link>https://example.com/</link>
+<description>A modern static blog powered by Next.js and Markdown content.</description>
+<item>
+<title>Hello World</title>
+<link>https://example.com/blog/hello-world/</link>
+<guid>https://example.com/blog/hello-world/</guid>
+<description>Welcome to your new static Markdown-powered blog.</description>
+<pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
